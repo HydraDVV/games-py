@@ -1,2 +1,2 @@
 # games-py
-simple games coded with ( Python ).
+simple games coded with ( Python )
